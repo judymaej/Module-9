@@ -15,6 +15,7 @@ The Weather Dashboard is a dynamic web application that provides up-to-date weat
 - 🚀 [Installation](#-installation)
 - 🛠️ [Usage](#-usage)
 - 📜 [License](#-license)
+- ⚙️ [Support](#-support)
 
 ## 🚀 Installation
 
@@ -27,6 +28,12 @@ npm run start:dev
 ```
 
 - If not directed, click on genersted local host link to launch application
+
+## **Support**
+
+In this project, I had peer support in the creating and organizing various files in the code. Specifically, understating the API and utilizing it. My peers helped me organize code and resolve previous errors that prevented the server from running and becomming live.
+
+Additionally I used learning assistant generating code and error handling mainly within the client section.
 
 ## 📜 License
 
